@@ -1,0 +1,8 @@
+purpose,total_loans,defaults,default_rate_pct,avg_interest_rate
+small_business,619,172,27.79,13.81
+educational,343,69,20.12,11.99
+home_improvement,629,107,17.01,11.75
+all_other,2331,387,16.6,11.68
+debt_consolidation,3957,603,15.24,12.66
+credit_card,1262,146,11.57,11.97
+major_purchase,437,49,11.21,11.42

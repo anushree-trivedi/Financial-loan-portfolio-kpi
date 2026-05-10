@@ -1,0 +1,5 @@
+fico_band,total_loans,avg_interest_rate,avg_debt_to_income,total_defaults,default_rate_pct
+High Risk,231,15.32,13.3,74,32.03
+Medium Risk,3990,14.04,13.82,800,20.05
+Low Risk,3687,11.46,12.79,535,14.51
+Excellent,1670,9.37,9.21,124,7.43
